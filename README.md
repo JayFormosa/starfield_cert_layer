@@ -9,5 +9,5 @@ curl https://certs.secureserver.net/repository/sf-class2-root.crt -O
 ```
 
 ```
-
+zip -r certificate.zip certificate
 ```
